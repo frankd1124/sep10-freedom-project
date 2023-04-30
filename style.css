@@ -64,4 +64,11 @@ p {font-size: 16px;}
   .item span {
     font-style: normal;
   }
+
+  .container {
+    position: relative;
+    text-align: center;
+    color: white;
+
+    
 </style>
